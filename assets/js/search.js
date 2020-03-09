@@ -6,6 +6,7 @@ isResult = Boolean(true);
 $(document).ready(function(){
     $('#movie-search-form').on('submit', function(e) { 
 
+        $("body").css("background-color", "#15202b");
         $(".search-button").click();    //it just slides the navbar...
 console.log(isResult)
         if(!isResult) {

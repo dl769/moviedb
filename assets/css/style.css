@@ -20,6 +20,7 @@
 	color: Black;
 	font-weight: bold;
 	cursor: pointer;
+	color: #8899a6;
 }
 .lio{
 	position: relative;
@@ -31,9 +32,11 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 300;
-    color: #888;
+	color: #888;
+	font-weight: bold;
     line-height: 30px;
 	text-align: center;
+	
 
 }
 
